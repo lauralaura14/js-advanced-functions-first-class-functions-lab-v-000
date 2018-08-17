@@ -1,1 +1,5 @@
-// Code your solution in this file!
+function returnFirstTwoDrivers() {
+  const fn = function(drivers) {
+    return drivers[0]
+  }
+}
